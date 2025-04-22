@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-  <a href="https://linkedin.com/in/ali-khorsand">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="ali-khorsand-linked-in" >
+  <a href="https://linkedin.com/in/shahyad-karimi">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" alt="shahyad-karimi-linked-in" >
   </a>
 </div>
 <div>
@@ -21,7 +21,7 @@
 <h2 align="center">My Skills and Tech Stack</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,jquery,html,css,tailwind">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb, html,css,tailwind">
 </div>
 
 <br><br><br>
