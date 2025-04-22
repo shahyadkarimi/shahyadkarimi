@@ -10,8 +10,8 @@
   </a>
 </div>
 <div>
-  <a href="mailto:ali.khoursand@gmail.com" target="blank">
-    <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social" alt="ali-khorsand-gmail" />
+  <a href="mailto:shahyad.hack@gmail.com" target="blank">
+    <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social" alt="shahyad-karimi-gmail" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 <h2 align="center">My Skills and Tech Stack</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,vue,nuxt,js,jquery,html,css,bootstrap,vuetify">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,jquery,html,css,tailwind">
 </div>
 
 <br><br><br>
@@ -33,9 +33,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alikhoursand&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahyadkarimi&theme=dark&hide_border=true">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhoursand&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahyadkarimi&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </div>
 <br><br><br>
 <br>
