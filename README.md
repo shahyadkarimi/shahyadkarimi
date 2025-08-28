@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahyad</h1>
 <br>
-🌱 I’m currently learning Node.js
+🌱 Still learning...
 
 
 <h3 align="left">Connect with me:</h3>
